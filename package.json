@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "tailwindcss": "^3.1.8"
+  },
+  "name": "tailwindcss_contact_form",
+  "description": "Contact Form using Tailwindcss 3.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranacse05/tailwindcss_contact_form.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranacse05/tailwindcss_contact_form/issues"
+  },
+  "homepage": "https://github.com/ranacse05/tailwindcss_contact_form#readme"
+}
